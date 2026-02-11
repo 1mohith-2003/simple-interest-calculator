@@ -1,0 +1,11 @@
+curl https://api.github.com/repos/1mohith-2003/simple-interest-calculator
+
+{
+  "id": 123456,
+  "name": "simple-interest-calculator",
+  "full_name": "1mohith-2003/simple-interest-calculator",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
